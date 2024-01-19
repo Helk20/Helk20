@@ -34,16 +34,14 @@ current_job: Full Stack Developer
 
 fields_of_interests:
   [
-    "Web Development",
+    "Data Engineering",
     "Data Science",
     "Machine Learning",
-    "DevOps",
+    "Web Development",
   ]
 technical_background:
   [
-    "DevOps Solutions Architect",
     "Data Science & Machine Learning in Python",
-    "Internet Of Things",
     "Full Stack Developpement",
   ]
 
